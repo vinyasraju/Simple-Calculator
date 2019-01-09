@@ -1,6 +1,6 @@
 # windows-calculator-java
 
-*Program is a a replica of the Windows 7 Programming Calculator.
+Program is a a replica of the Windows 7 Programming Calculator.
 
 1) Calculator will operate with the number buttons on the keypad and will do operations based on input. 
 
